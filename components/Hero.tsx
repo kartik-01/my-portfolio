@@ -53,7 +53,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Kartik, a Software Engineer based in  San Francisco Bay Area, California.
+            I&apos;m Kartik, a Software Engineer based in  San Francisco Bay Area, California.
           </p>
 
           <a href="#about">
